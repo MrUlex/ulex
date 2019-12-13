@@ -1,0 +1,1 @@
+[null,{"name":"помощь","temp":"","event-type":"1","actions":[{"gameName":"!help","gameLink":"https://www.twitch.tv/dishkaz","name":"Set Bot Game"}]},{"name":"новый","temp":"member","event-type":"6","actions":[{"channel":"4","varName":"","message":"Добро пожаловать на сервер!${tempVars(\"member\")}","storage":"0","varName2":"","name":"Send Message"}]}]
